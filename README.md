@@ -1,4 +1,4 @@
-# FastAPI Journey
+# fastapi-journey
 
 A structured learning journey to master FastAPI from fundamentals to production-ready backend development.
 
